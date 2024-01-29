@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Allrounder Monument Test Book';
+    src: url(../fonts/AllrounderMonumentTest-Book.otf);
+    font-style: bold;
+}
+
+@font-face {
+    font-family: 'Allrounder Monument Test Mewdium';
+    src: url(../fonts/AllrounderMonumentTest-Medium.otf);
+    font-style: medium;
+}
+
+@font-face {
+    font-family: 'Allrounder Monument Test Regular';
+    src: url(../fonts/AllrounderMonumentTest-Regular.otf);
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Augustea Open Regular';
+    src: url(../fonts/Augustea-Open-Std-Regular.otf);
+    font-style: normal;
+}
