@@ -6,6 +6,8 @@ body {
 
 svg {
     max-width: 20px;
+    display: inline-block;
+    position: relative;
 }
 
 h1,
@@ -17,5 +19,19 @@ h5 {
 }
 
 p {
-    font-family: 'Allrounder Monument Test Regular';
+    font-family: 'Glacial Indifference Regular';
+    font-size: larger;
+}
+
+a {
+    font-family: 'Allrounder Monument Test Regular'
+}
+
+h1.virtualt {
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    padding: 30px 5px;
 }

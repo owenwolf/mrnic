@@ -21,3 +21,15 @@
     src: url(../fonts/Augustea-Open-Std-Regular.otf);
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'Glacial Indifference Italic';
+    src: url(../fonts/GlacialIndifference-Italic.otf);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Glacial Indifference Regular';
+    src: url(../fonts/GlacialIndifference-Regular.otf);
+    font-style: normal;
+}
