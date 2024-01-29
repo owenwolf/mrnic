@@ -32,6 +32,10 @@ h1.virtualt {
     padding: 10px;
 }
 
+.alignFormat figure {
+    float: left;
+}
+
 footer {
     padding: 30px 5px;
 }
