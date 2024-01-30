@@ -36,6 +36,19 @@ h1.virtualt {
     float: left;
 }
 
+.alignFormat svg {
+    float: right;
+    margin: -6px;
+}
+
+.alignFormat p {
+    display: flex;
+}
+
+.alignFormat figure.image.is-32x32 {
+    margin-right: 10px;
+}
+
 footer {
     padding: 30px 5px;
 }
