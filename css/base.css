@@ -49,6 +49,49 @@ h1.virtualt {
     margin-right: 10px;
 }
 
+figure {
+    border: 1px #cccccc solid;
+    padding: 4px;
+    margin: auto;
+}
+
+figcaption {
+    background-color: #3C5F52;
+    color: white;
+    padding: 2px;
+    text-align: center;
+}
+
+audio {
+    width: 100px;
+    height: 35px;
+    position: fixed;
+    float: right;
+    z-index: 50;
+    right: 6px;
+    bottom: 10px;
+}
+
+section.walls {
+    width: 175px;
+    height: 35px;
+    position: fixed;
+    z-index: 50;
+    left: 17px;
+    bottom: 10px;
+    background-color: #3c5f52;
+    border-radius: 50px;
+}
+
+.walls a {
+    color: white !important;
+    padding: 3px 10px;
+    border: 2px solid;
+    border-radius: 50px;
+    display: inline-flex;
+    margin-left: 3px;
+}
+
 footer {
     padding: 30px 5px;
 }
